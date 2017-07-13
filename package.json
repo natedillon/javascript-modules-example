@@ -1,11 +1,11 @@
 {
-  "name": "javascript-modules-test",
-  "description": "",
+  "name": "javascript-modules-example",
+  "description": "An example project using JavaScript modules.",
   "version": "",
   "author": "D. Nathan Dillon",
   "repository": {
     "type": "git",
-    "url": "git@github.com:natedillon/javascript-modules-test.git"
+    "url": "https://github.com/natedillon/javascript-modules-example.git"
   },
   "license": "MIT",
   "private": true,

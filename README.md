@@ -1,6 +1,6 @@
 # JavaScript Modules Example
 
-An example project using JavaScript modules.
+An example project using JavaScript modules, created for the article [“Using JavaScript Modules”](https://ntdln.com/2017/07/25/using-javascript-modules/).
 
 ## Running Locally
 
